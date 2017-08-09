@@ -34,6 +34,7 @@ This service runs on go.
       - Make sure that the executable `go` is in your shell's path.
       - Add the following in your .zshrc or .bashrc: (where `<workspace_dir>` is the directory in
         which you'll checkout your code)
+      - `make setup`
 - Run Test
     make test
 
